@@ -1,6 +1,6 @@
 # syntaxhighlighter-theme
 
-Brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter).
+Base SASS theme for all [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) themes. If you want to create a new theme, please use [syntaxhighlighter-theme-django](https://github.com/syntaxhighlighter/syntaxhighlighter-theme-django) as a starting point.
 
 [![Dependency status](https://david-dm.org/syntaxhighlighter/syntaxhighlighter-theme.png)](https://david-dm.org/syntaxhighlighter/syntaxhighlighter-theme)
 [![devDependency Status](https://david-dm.org/syntaxhighlighter/syntaxhighlighter-theme/dev-status.png)](https://david-dm.org/syntaxhighlighter/syntaxhighlighter-theme#info=devDependencies)
@@ -11,6 +11,10 @@ Brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntax
 ## Installation
 
     npm install syntaxhighlighter-theme
+
+## Testing
+
+    npm test
 
 ## License
 
