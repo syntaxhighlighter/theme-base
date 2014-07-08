@@ -1,0 +1,42 @@
+{
+  "name": "syntaxhighlighter-theme",
+  "version": "0.5.0",
+  "description": "Theme base module for SyntaxHighlighter.",
+  "keywords": [
+    "syntaxhighlighter",
+    "options",
+    "parser"
+  ],
+  "homepage": "https://github.com/syntaxhighlighter/syntaxhighlighter-theme",
+  "bugs": "https://github.com/syntaxhighlighter/syntaxhighlighter-theme/issues",
+  "author": {
+    "name": "Alex Gorbatchev",
+    "email": "",
+    "url": "https://github.com/syntaxhighlighter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syntaxhighlighter/syntaxhighlighter-theme.git"
+  },
+  "scripts": {
+    "test": "mocha test/**/*.coffee"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": "^1.7.1",
+    "mocha": "^1.20.1",
+    "node-sass": "^0.9.3"
+  },
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    },
+    {
+      "type": "LGPL"
+    }
+  ]
+}
