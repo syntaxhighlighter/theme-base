@@ -1,22 +1,21 @@
 {
-  "name": "syntaxhighlighter-theme",
+  "name": "theme-base",
   "version": "4.0.0",
-  "description": "Theme base module for SyntaxHighlighter.",
+  "description": "Base theme module for SyntaxHighlighter.",
   "keywords": [
     "syntaxhighlighter",
-    "options",
-    "parser"
+    "theme",
+    "css"
   ],
-  "homepage": "https://github.com/syntaxhighlighter/syntaxhighlighter-theme",
-  "bugs": "https://github.com/syntaxhighlighter/syntaxhighlighter-theme/issues",
+  "homepage": "https://github.com/syntaxhighlighter/theme-base",
+  "bugs": "https://github.com/syntaxhighlighter/theme-base/issues",
   "author": {
     "name": "Alex Gorbatchev",
-    "email": "",
-    "url": "https://github.com/syntaxhighlighter"
+    "url": "https://github.com/syntaxhighlighter/theme-base"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/syntaxhighlighter/syntaxhighlighter-theme.git"
+    "url": "https://github.com/syntaxhighlighter/theme-base.git"
   },
   "scripts": {
     "test": "mocha test/**/*.coffee"
@@ -31,12 +30,5 @@
     "node": ">=0.10.0",
     "npm": ">=1.2.10"
   },
-  "licenses": [
-    {
-      "type": "MIT"
-    },
-    {
-      "type": "LGPL"
-    }
-  ]
+  "license": "MIT"
 }
