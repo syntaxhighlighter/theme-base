@@ -18,17 +18,19 @@
     "url": "https://github.com/syntaxhighlighter/theme-base.git"
   },
   "scripts": {
-    "test": "mocha test/**/*.coffee"
+    "test": "mocha --opts mocha.opts test.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "theme-base": "syntaxhighlighter/theme-base"
+  },
   "devDependencies": {
-    "coffee-script": "^1.7.1",
-    "mocha": "^1.20.1",
-    "node-sass": "^0.9.3"
+    "node-sass": "^3.4.2",
+    "mocha": "^2.3.4"
   },
   "engines": {
     "node": ">=0.10.0",
     "npm": ">=1.2.10"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "main": "theme.scss"
 }
