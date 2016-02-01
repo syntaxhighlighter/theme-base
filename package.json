@@ -1,5 +1,5 @@
 {
-  "name": "theme-base",
+  "name": "@alexgorbatchev/theme-base",
   "version": "4.0.0",
   "description": "Base theme module for SyntaxHighlighter.",
   "keywords": [
