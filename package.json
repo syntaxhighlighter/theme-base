@@ -1,5 +1,5 @@
 {
-  "name": "@alexgorbatchev/theme-base",
+  "name": "theme-base",
   "version": "4.0.0",
   "description": "Base theme module for SyntaxHighlighter.",
   "keywords": [
@@ -7,15 +7,15 @@
     "theme",
     "css"
   ],
-  "homepage": "https://github.com/syntaxhighlighter/theme-base",
-  "bugs": "https://github.com/syntaxhighlighter/theme-base/issues",
+  "homepage": "https://github.com/^4.0.0",
+  "bugs": "https://github.com/^4.0.0/issues",
   "author": {
     "name": "Alex Gorbatchev",
     "url": "https://github.com/alexgorbatchev"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/syntaxhighlighter/theme-base.git"
+    "url": "https://github.com/^4.0.0.git"
   },
   "scripts": {
     "test": "mocha --opts mocha.opts test.js"
