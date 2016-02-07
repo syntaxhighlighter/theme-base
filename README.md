@@ -7,21 +7,9 @@
 
 Base SASS theme for all [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) themes. If you want to create a new theme, please use [theme-django](https://github.com/syntaxhighlighter/theme-django) as a starting point.
 
-## Installation
-
-```
-npm install theme-base
-```
-
 ## Usage
 
 Please see [Building Instructions](https://github.com/syntaxhighlighter/syntaxhighlighter/wiki/Building) on the [SyntaxHighlighter Wiki](https://github.com/syntaxhighlighter/syntaxhighlighter/wiki) for details.
-
-## Testing
-
-```
-npm test
-```
 
 ## License
 
