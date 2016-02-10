@@ -100,6 +100,11 @@ $caption_color                : $code_plain !default;
   overflow: auto !important;
   font-size: 1em !important;
 
+  // fixes an issue with bootstrap
+  .container:before, .container:after {
+    content: none !important;
+  }
+
   &.source { overflow: hidden !important; }
 
   // set up bold and italic
